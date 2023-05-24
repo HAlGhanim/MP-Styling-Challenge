@@ -1,0 +1,9 @@
+body {
+  background-image: url("netflix-background.jpg");
+}
+.logo {
+  width: 15%;
+}
+span {
+  color: white;
+}
